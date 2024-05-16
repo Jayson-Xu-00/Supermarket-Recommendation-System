@@ -6,5 +6,5 @@
 
 
 - Slide Deck:
-- Project Report: [Supermarket_Recommendation_System_Report.docx](https://github.com/Jayson-Xu-00/Supermarket-Recommendation-System/files/15327943/Supermarket_Recommendation_System_Report.docx)
+- Project Report: [Download](https://github.com/Jayson-Xu-00/Supermarket-Recommendation-System/files/15327943/Supermarket_Recommendation_System_Report.docx)
  
